@@ -1,4 +1,4 @@
-#Made by Decayer177
+#Made by rraph123
 
 import discord
 from discord.ext import commands
