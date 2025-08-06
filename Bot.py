@@ -1,4 +1,4 @@
-#Made by Decayer177
+#Made by rraph123
 
 import discord
 from discord.ext import commands
@@ -161,3 +161,4 @@ async def info(ctx, member: discord.Member=None):
 
 client.run("TOKEN")
 # Place your Bot's token here
+
